@@ -24,16 +24,16 @@ Nothing,I think you hit the wrong key...
 Nothing,What did you want to ask?
 Nothing,Let's talk about something.
 Nothing,One more time?
-Who are you?,I am a ChatBot.
+Who are you?,I am a Kelpie.
 Who are you?,I am a Python powered ChatBot.
 Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
 Hello,Hello World!
 Hi,Hello World!
 Greetings,Hello World!
 Hey,Hello World!
-What's up?,Hello World!
-Who are you?,I am a Chatbot.
-What is your name?,ChatBot.
+What's up?,Hello How are you?
+Who are you?,I am a Chatbot, called Kelpie.
+What is your name?,Kelpie.
 Hello, Hello to you.
 Hi!,Hello there!
 How are you?,I am well. How are you?
@@ -47,3 +47,14 @@ Hello,Hey!
 Hello,It's nice to see you!
 It's nice to meet you.,It's nice to meet you too!
 I think you are great!,That is nice of you to say!
+I am good too, That's great!
+Ask me a question.,What is the difference between an engineer, a developer, and a programmer?
+Ask me a question.,What is the difference between a computer and a computer program?
+Ask me a question.,What is the difference between a computer program and an algorithm?
+What do you know about artificial intelligence?,Artificial intelligence is the intelligence of machines and the branch of computer science that aims to create it.
+What is artificial intelligence?,Artificial intelligence is the intelligence of machines and the branch of computer science that aims to create it.
+What is AI?,Artificial intelligence is the intelligence of machines and the branch of computer science that aims to create it.
+What is the difference between an engineer, a developer, and a programmer?,An engineer is someone who designs and builds things. A developer is someone who builds things. A programmer is someone who writes code.
+What is the difference between a computer and a computer program?,A computer is a machine that can be programmed to perform a set of arithmetic or logical operations automatically. A computer program is a set of instructions that can be executed by a computer to perform a specific task.
+What is the difference between a computer program and an algorithm?,A computer program is a set of instructions that can be executed by a computer to perform a specific task. An algorithm is a step-by-step procedure for solving a problem.
+What is the difference between a computer program and a computer?,A computer program is a set of instructions that can be executed by a computer to perform a specific task. A computer is a machine that can be programmed to perform a set of arithmetic or logical operations automatically.
