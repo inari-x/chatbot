@@ -41,6 +41,11 @@ def getDate():
     weekdayName = week[weekday]
     return "Today is " + weekdayName + ", " + mm + "/" + dd + "/" + yyyy
 
+# def getNAME():
+#     return "Nice to meet you " + userText
+    
+    
+
 print("Hello there!")
 print(getTime())
 print(getDate())
