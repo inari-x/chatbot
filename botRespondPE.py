@@ -17,7 +17,7 @@ def getResponse(sendMsg):
     exactReply = []
     exactMatch = .9
 
-    botBrain = os.path.abspath('mybot/data/chatbot.csv')
+    botBrain = os.path.abspath('chatbot/data/chatbot.csv')
 
     with open(botBrain) as g:
         lines = csv.reader(g)

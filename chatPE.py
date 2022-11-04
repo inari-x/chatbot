@@ -15,7 +15,7 @@ print("Confidence level set to " + str(confidenceLevel))
 
 
 #Create Log file
-botLog = os.path.abspath('mybot/BotLog.csv')
+botLog = os.path.abspath('chatbot/BotLog.csv')
 try:
     file = open(botLog, 'r')
 except IOError:
