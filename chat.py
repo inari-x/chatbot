@@ -49,6 +49,7 @@ def get_bot_response():
     #     botReply = "Nice to meet you " + userText
     #     print("Nice to meet you " + userText)
     ##Log to CSV file
+    
     print("Logging to CSV file now")
     with open('BotLog.csv', 'a', newline='') as logFile:
         newFileWriter = csv.writer(logFile)

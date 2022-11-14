@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 from datetime import datetime, timedelta
+from flask import Flask, render_template, request
 from pytz import timezone
 import pytz
 from datetime import date
@@ -41,6 +42,9 @@ def getDate():
     weekdayName = week[weekday]
     return "Today is " + weekdayName + ", " + mm + "/" + dd + "/" + yyyy
 
+def getFavorite():
+    return "My favorite color is blue."
+        
 # def getNAME():
 #     return "Nice to meet you " + userText
     

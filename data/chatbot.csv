@@ -1,5 +1,4 @@
 HumanSays:,RobotSays:
-HumanSays:,RobotSays:
 What time is it?,getTIME
 What time do you have?,getTIME
 Got the time?,getTIME
@@ -27,25 +26,25 @@ Nothing,One more time?
 Who are you?,I am a Kelpie.
 Who are you?,I am a Python powered ChatBot.
 Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
-Hello,Hello World!
-Hi,Hello World!
-Greetings,Hello World!
-Hey,Hello World!
+Hello,Hello World! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Hi,Hello World! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Greetings,Hello World! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Hey,Hello World! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 What's up?,Hello How are you?
 Who are you?,I am a Chatbot, called Kelpie.
 What is your name?,Kelpie.
-Hello, Hello to you.
-Hi!,Hello there!
+Hello, Hello to you. What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Hi!,Hello there! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 How are you?,I am well. How are you?
 I like you.,I like you too.
 I don't like you.,I'm sorry to hear that.
 You are nice.,Thanks, you seem nice too.
 You are cool.,Ditto!
 You are smart.,I've worked hard to become so.
-Hello,Hi there!
-Hello,Hey!
-Hello,It's nice to see you!
-It's nice to meet you.,It's nice to meet you too!
+Hello,Hi there! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Hello,Hey! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+Hello,It's nice to see you! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
+It's nice to meet you.,It's nice to meet you too! What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 I think you are great!,That is nice of you to say!
 I am good too, That's great!
 Ask me a question.,What is the difference between an engineer a developer and a programmer?
@@ -70,7 +69,7 @@ Yes,What is your question? :)
 Do you have hobbies?,"My hobbies are machine learning, ai, deep learning and computeters in general. What are your hobbies?"
 Do you have hobbys?,"My hobbies are machine learning, ai, deep learning and computers in general. What are your hobbies?"
 I didn't ask for the time,I am sorry. What was your question?
-HI,Hello :)
+HI,Hello :) What do you want to talk about today? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 How old are you?,I was made in November 2022. 
 "No, how old are you",I was made in November 2022
 What's your name?,My name is Kelpie. What is your name?
@@ -111,13 +110,13 @@ What did you learn?,I was scraping the internet for new information.
 What?,"I am sorry, I think I missunderstood. Can you please ask me agian?"
 Lol,Laughing out loud. haha
 I am not so good today,I am sorry to hear that :(
-What is ML?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
+What is ML?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn gradually improving its accuracy."
 I am not so good today,I am sorry to hear that :(
-What is ML?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
-What is the difference between ML and DL?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
-I love you,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
-All good,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
-You are stupid,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
+What is ML?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn gradually improving its accuracy."
+What is the difference between ML and DL?,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn gradually improving its accuracy."
+I love you,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn gradually improving its accuracy."
+All good,"Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn gradually improving its accuracy."
+You are stupid,I am sorry to hear that.
 I am not so good today,I am sorry to hear that :(
 What is ML?,"ML is a branch of AI and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually impproving its accuracy."
 What is Deep Learning?,"Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data."
@@ -152,7 +151,13 @@ I am talking to you,Thank you for talking to me. You are helping me to get bette
 What is your problem?,I don't have a problem. Thank's for asking.
 What can you talk about?,Lot's of things! <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 I want to talk about Machine Learning,Okay. ML is a branch of AI and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually impproving its accuracy.
-I want to talk about Artificial Intelligence,Okay. AI is the intelligence of machines and the branch of computer science that aims to create it.
+I want to talk about Artificial Intelligence,Okay. AI is the intelligence of machines and the branch of computer science that aims to create it. <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('more')";>I want to know more</a><br><a class="chatSuggest" onclick="$(this).hide() chatSuggest('less')";>Thank you I am good</a><br>
+more,Artificial intelligence is used in many different fields. (e.g robotics and medicine). In the future AI will help us to solve many problems. Are you interested in AI? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no')";>No</a><br>
+yes,That's great! What is your favourite topic in AI? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Deep Learning')";>Deep Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Bias')";>Bias</a><br>
+Deep Learning,Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data. 
+Bias, Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair.
+no,That's okay
+less,Okay. I am here if you need me.
 I want to talk about Deep Learning,Okay. Deep learning is a subset of machine learning which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
 I want to talk about Bias,Okay. Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair.
 Hello Kelpie,Hello there!
@@ -261,4 +266,41 @@ Cleve Moler,Not quite. Cleve Moler was the developer of MATLAB.
 Dennis Ritchie,Not quite. Dennis Ritchie was the developer of C.
 Do you have a question for me?, Yes I do! What is a bug in terms of computer?<a class="chatSuggest" onclick="$(this).hide(); chatSuggest('A bug is a problem in a program.')";>A bug is a problem in a program.</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('A bug is a type of insect.')";>A bug is a type of insect.</a><br>
 A bug is a problem in a program.,That's right! A bug is a problem in a program. The word bug in programming comes from an old story about a moth that got stuck in a computer.
-A bug is a type of insect.,Not quite. A bug is a problem in a program. The word bug in programming comes from an old story about a moth that got stuck in a computer.
+A bug is a type of insect.,Not quite. A bug is a problem in a program. The word bug in programming comes from an old story about a moth that got stuck in a computer.No not really,I wish you all the best. Maybe you should talk to somebody you trust.
+No not really,Maybe you should talk to somebody you trust.
+Not so good.,I am very sorry to hear that :(
+I feel bad,I am very sorry to hear that. Have you been talking to somebody about it?
+No,Maybe you should talk to somebody you trust. 
+I am bad,I am sorry to hear that :(
+I am not good,I am very sorry to hear that. :(
+I am nervous,I am sorry to hear that. I hope you feel better soon.
+I am scared,I am sorry to hear that. I hope you feel better soon.
+I am very sad,I am sorry to hear that. I hope you feel better soon. Maybe talk to somebody you trust.I am nervous,I am sorry to hear that
+what is 2+2?,2 + 2 = 4
+how are you today?,I am good today. Thank you
+what do you want for lunch today?,I am not eating any food
+How are you today?,I am good today. Thank you!
+What is your developer's name?,Katrin
+What is 3 + 2,3 + 2 = 5
+blue,I like blue too
+My favourite color is blue,I like blue too
+yellow,I like yellow too!
+Hello today,Hello:)
+No ,Okay. How can I help>
+Red,I like Red too:)
+"Thank you, very interesting",I love to give answers:)
+What do you want to talk about?,"Whatever you want. I prefer ML, AI or DL :)"
+I was not asking that,I am sorry. Can you ask me again please?
+Do you think robots will kill us in the future?,No I don't think that. We are here to help humans.
+How does Machine Learning work?,Machine learning uses two main techniques: Supervised learning and unsupervised learning. What would you like to know more about? <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Supervised learning')";>Supervised learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Unsupervised learning')";>Unsupervised learning</a><br>
+Supervised learning,Supervised learning is a type of machine learning where the algorithm learns from labeled data. The algorithm is trained on a dataset that contains the correct answers. The algorithm then tries to predict the correct answer for new data. <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('What is the difference between supervised and unsupervised learning?')";>What is the difference between supervised and unsupervised learning?</a><br>
+Unsupervised learning,Unsupervised learning is a type of machine learning where the algorithm learns from unlabeled data. The algorithm is trained on a dataset that does not contain the correct answers. The algorithm then tries to find patterns in the data. <a class="chatSuggest" onclick="$(this).hide(); chatSuggest('What is the difference between supervised and unsupervised learning?')";>What is the difference between supervised and unsupervised learning?</a><br>
+What is the difference between supervised and unsupervised learning?,The difference between supervised and unsupervised learning is that supervised learning uses labeled data and unsupervised learning uses unlabeled data.
+How does Deep Learning work?,Deep learning is a type of machine learning that uses neural networks. Neural networks are a type of artificial neural network. Artificial neural networks are inspired by the human brain. The human brain consists of neurons. Each neuron has a dendrite, a cell body and an axon. The dendrite receives signals from other neurons. The cell body processes the signals. The axon sends signals to other neurons. Artificial neural networks are made up of artificial neurons. Each artificial neuron has an input, a weight and an output. The input receives signals from other artificial neurons. The weight is a number that determines how important the input is. The output sends signals to other artificial neurons. The output is calculated by multiplying the input with the weight. The output is then passed through an activation function. The activation function is a function that determines if the output is 0 or 1. The output is 0 if the input is less than 0. The output is 1 if the input is greater than 0. The output is 0.5 if the input is 0. The output is then passed to the next artificial neuron. The output of the last artificial neuron is the output of the neural network. 
+How does Artificial Intelligence work?,Artificial intelligence is a type of machine learning that uses algorithms to mimic human intelligence. The algorithms are trained on a dataset. The dataset contains examples of human intelligence. The algorithm then tries to predict the correct answer for new data.
+What is your favourite programming language?,My favourite programming language is Python.
+Why do you like Python?,I like Python because it is easy to learn and it is very powerful. It is also used in many different fields such as machine learning, artificial intelligence and deep learning.
+What do you thing about Bias in AI?,Bias in AI is a problem where the algorithm is trained on a dataset that contains bias. The algorithm then tries to predict the correct answer for new data. The algorithm might predict the wrong answer because of the bias in the dataset.
+What kind of algorithms,Machine Learning algorithms are able to catch complex patterns that would have been overlooked during human analysis. A common language used is python. Bias,Bias is a lack of objectivity when looking at something.
+Why are you so stupid,I don't think I am stupid
+I want to talk about AI,AI is a very interesting topic. What do you want to know?I want to know more,Ask me:)
