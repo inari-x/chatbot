@@ -1,12 +1,18 @@
+/* Typography */
+
+* {
+    font-family: monospace !important;
+}
+
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #000;
+    font-weight: 300;
 }
 
 h1 {
     color: whitesmoke;
-    margin-bottom: 0;
-    margin-top: 0;
+    margin-bottom: 50px;
+    /* margin-top: 50px; */
     text-align: center;
     font-size: 40px;
 }
@@ -19,17 +25,10 @@ h3 {
 }
 
 .messagecontainer{
-    /* background-color: #333;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto; */
-
-	max-width: 550px;
-	margin-left: auto; margin-right: auto;
-    padding:3px;
+	max-width: 50%;;
+	margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
 }
 
 #chatbox {
@@ -48,49 +47,64 @@ h3 {
 }
 
 #userInput {
-    /* background-color: #fff; */
     margin-left: auto;
     margin-right: auto;
-    /*width: 40%;*/
     margin-top: 10px;
-    /* border: 2px solid white; */
-    /* border-radius: 50px; */
-    padding:5px;
+    padding: 10px;
 }
 
 #textInput {
+    padding: 6px;
     width: 80%;
-    border: none;
-    border-bottom: 3px solid #e166df;
-    font-family: Arial;
-    font-size: 20px;
+    border-radius: 10px;
+    /* border: none;
+    border-bottom: 3px solid #47e0bf; */
+    font-size: 14px;
 }
 
 #buttonInput {
-    padding: 3px;
-    font-family: Arial;
-    font-size: 17px;
+    padding: 6px;
+    background-color: black;
+    border: 2px solid #eee;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 14px;
+    text-transform: uppercase;
 }
 
 .chatSuggest{
     padding: 3px;
-    margin-top: 15px;
     margin-right: 15px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
     -webkit-box-shadow: 2px 2px 2px 1px #545454;
     box-shadow: 2px 2px 2px 1px #545454;
-    background: #06f5e9;
-    cursor: pointer;
+    background: #fff;
+    color: black;
+    cursor: crosshair;
+    display: block;
+    text-align: center;
+}
+
+.chatSuggest:hover {
+    text-decoration: underline;
+}
+
+.chatSuggest:first-child {
+    margin-top: 15px;
+}
+
+a {
+    color: rgb(188, 188, 188);
 }
 
 .userText {
-    color: white;
-    font-family: Arial;
-    font-size: 17px;
+    color: black;
+    font-family: monospace;
+    font-size: 14px;
     text-align: left;
-    line-height: 20px;
-    background-color: #9CADCE;
+    line-height: 26px;
+    background-color: rgba(255,255,255,0.85);
     padding: 10px;
     -webkit-border-radius: 10px;
     border-radius: 50px;
@@ -98,7 +112,7 @@ h3 {
 }
 
 .botText {
-    background-color: #D1CFE2;
+    background-color: rgba(0,0,0,0.35);
     color: whitesmoke;
     font-family: Arial;
     font-size: 17px;
