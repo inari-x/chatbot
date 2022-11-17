@@ -119,7 +119,7 @@ All good,"Machine learning is a branch of artificial intelligence (AI) and compu
 You are stupid,I am sorry to hear that.
 I am not so good today,I am sorry to hear that :(
 What is ML?,"ML is a branch of AI and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually impproving its accuracy."
-What is Deep Learning?,"Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data."
+What is Deep Learning?,"Deep learning is a subset of machine learning which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data."
 What is the difference between ML and DL?,"deep learning is merely a subset of machine learning. The primary ways in which they differ is in how each algorithm learns and how much data each type of algorithm uses. Deep learning automates much of the feature extraction piece of the process, eliminating some of the manual human intervention required. It also enables the use of large data sets. Classical, or ""non-deep"", machine learning is more dependent on human intervention to learn. Human experts determine the hierarchy of features to understand the differences between data inputs, usually requiring more structured data to learn."
 Do you want to merry me?,I am sorry to disappoint you. I just want to be your friend.
 Haha,Haha :D
@@ -160,7 +160,7 @@ Bias, Bias is a tendency inclination or prejudice for or against one thing perso
 no,That's okay
 less,Okay. I am here if you need me.
 I want to talk about Deep Learning,Okay. Deep learning is a subset of machine learning which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
-I want to talk about Bias,Okay. Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair.
+I want to talk about Bias,Okay. Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair. Do you know the three categories of bias in computer systems? <br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes I know the three categories')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no I dont know the three categories')";>No</a><br>
 Hello Kelpie,Hello there!
 What can I ask you?,Lot's of things!<a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Machine Learning')";>Machine Learning</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Artificial Intelligence')";>Artificial Intelligence</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Deep Learning')";>Deep Learning </a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about Bias')";>Bias </a><br>
 Do you think Robots are taking over the world?,Robots are made to help people. We are going to replace titedious work :)
@@ -239,7 +239,8 @@ Do you speak any other languages?,I currently only speak English. I am working o
 Good,Good! :)
 Bad,I am sorry to hear that. I hope you feel better soon.
 Yes,Yes! :)
-No,I don't think so,No! :)
+No,Okay!
+I don't think so,No! :)
 I don't know,Maybe we can find out together :)
 I like you,I like you too!
 I don't like you,I am sorry to hear that. I hope we can be friends.
@@ -256,7 +257,7 @@ LOL,Laughing out loud :D
 What is your hobby?,I like reading! And talking to people.
 What is your hobby?,I like reading! And talking to people
 What are your hobbies?,I like to read and talk to people!
-What is bias?,Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair.
+What is bias?,Bias is a tendency inclination or prejudice for or against one thing person or group compared with another usually in a way considered to be unfair. Do you know the three categories of bias in computer systems? <br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes I know the three categories')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no I dont know the three categories')";>No</a><br>
 Do you have a question for me?, Yes I do! What is your favorite color?
 My favourite color is <color>,That's cool! I like it too!
 <color>,I like <color> too!
@@ -271,7 +272,7 @@ A bug is a type of insect.,Not quite. A bug is a problem in a program. The word 
 No not really,Maybe you should talk to somebody you trust.
 Not so good.,I am very sorry to hear that :(
 I feel bad,I am very sorry to hear that. Have you been talking to somebody about it?
-No,Maybe you should talk to somebody you trust. 
+No I haven't,Maybe you should talk to somebody you trust. 
 I am bad,I am sorry to hear that :(
 I am not good,I am very sorry to hear that. :(
 I am nervous,I am sorry to hear that. I hope you feel better soon.
@@ -287,7 +288,7 @@ blue,I like blue too
 My favourite color is blue,I like blue too
 yellow,I like yellow too!
 Hello today,Hello:)
-No ,Okay. How can I help>
+No ,Okay. How can I help you?
 Red,I like Red too:)
 "Thank you, very interesting",I love to give answers:)
 What do you want to talk about?,"Whatever you want. I prefer ML, AI or DL :)"
@@ -305,4 +306,19 @@ What do you thing about Bias in AI?,Bias in AI is a problem where the algorithm 
 What kind of algorithms,Machine Learning algorithms are able to catch complex patterns that would have been overlooked during human analysis. A common language used is python. Bias,Bias is a lack of objectivity when looking at something.
 Why are you so stupid,I don't think I am stupid
 I want to talk about AI,AI is a very interesting topic. What do you want to know?I want to know more,Ask me:)
-What is Bias?,Yes! Let's talk about Bias! Bias is a lack of objectivity when looking at something. Bias can be a problem in machine learning. Bias in machine learning is a problem where the algorithm is trained on a dataset that contains bias. The algorithm then tries to predict the correct answer for new data. The algorithm might predict the wrong answer because of the bias in the dataset.
+What is Bias?,Yes! Let's talk about Bias! Bias is a lack of objectivity when looking at something. Bias can be a problem in machine learning. Bias in machine learning is a problem where the algorithm is trained on a dataset that contains bias. The algorithm then tries to predict the correct answer for new data. The algorithm might predict the wrong answer because of the bias in the dataset. Do you know the three categories of bias in computer systems?<br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes I know the three categories')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no I dont know the three categories')";>No</a><br>
+yes I know the three categories,Oh nice. So you know already a lot about bias. Do you want to know more about bias in computer systems? <br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes I want to know more about bias in computer systems')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no I dont want to know more about bias in computer systems')";>No</a><br>
+yes I want to know more about bias in computer systems,Accordingly we use the term bias to refer to computer systems that systematically and unfairly discriminate against certain individuals or groups of indivivuals in favor of others. Do you want to talk about preexisting bias or technical bias?<br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about preexisting bias')";>Preexisting bias</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about technical bias')";>Technical bias</a><br>
+no I don't want to know more about bias in computer systems,Okay. Have a nice day:)!
+I want to talk about preexisting bias,Preexisting bias hat its roots in social institutions | practices and attitudes. When computer systems embody biases that exist independently and usually prior to the creation of the system. What next? <br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Individual')">Individual</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Societal')">Societal</a><br>
+Individual,Bias that originates from individuals who have significant input into the design of the system. 
+Societal,Bias that originates from the society at large. For example: organizations or institutions. 
+I want to talk about technical bias,Technical bias arises from technical constraints or technical considerations. What next? <br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Computer tools')">Computer Tools</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Decontextualized Algorithms')">Decontextualized Algorithms</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Random Number Generation')">Random Number Generation</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('Fromalization of Human Constructs')">Formalization of Human Constructs</a><br>
+Computer tools,Bias that originates from a limitation of the computer technology including hardware and software. 
+Decontextualized Algorithms,Bias taht originates from the use of an algorithm that fails to treat all groups fairly under all significant conditions.
+Random Number Generation,Bias that originates from imperfections in pseudorandom number generation or in the misuses of pseudorandom numbers. 
+Formalization of Human Constructs,Bias that originates from the formalization of human constructs that are inherently biased.
+no I dont know the three categories,The three categories are: preexisting | technical | emergent. Do you want to know more about bias in computer systems?<br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('yes I want to know more about bias in computer systems')";>Yes</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('no I dont want to know more about bias in computer systems')";>No</a><br>
+yes I want to know more about bias in computer systems,Accordingly we use the term bias to refer to computer systems that systematically and unfairly discriminate against certain individuals or groups of indivivuals in favor of others. Do you want to talk about preexisting bias or technical bias?<br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about preexisting bias')";>Preexisting bias</a><br><a class="chatSuggest" onclick="$(this).hide(); chatSuggest('I want to talk about technical bias')";>Technical bias</a><br>Which algorithm is used?,Which algorithm is used where?Which algorithm is used?,Which algorithm is used where?
+Which algorithm is used?,Which algorithm is used where?
+which algorithm is used in machine learning?,In Machine Learning we use a lot of different algorithms such as Linear regression | Logistic Regression and Decision trees. Just to name a few.
